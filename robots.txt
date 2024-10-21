@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tifinebac.github.io/tifinebac.txt.gz
+Sitemap: https://tifinebac.github.io/app/tifinebac.txt.gz
+Sitemap: https://tifinebac.github.io/assets/tifinebac.txt.gz
+Sitemap: https://tifinebac.github.io/css/tifinebac.txt.gz
+Sitemap: https://tifinebac.github.io/includes/tifinebac.txt.gz
+Sitemap: https://tifinebac.github.io/item/tifinebac.txt.gz
+Sitemap: https://tifinebac.github.io/src/tifinebac.txt.gz
